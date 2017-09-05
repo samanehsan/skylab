@@ -1,0 +1,4 @@
+{
+  "BatchDownloadSra.sra_list" :"gs://broad-dsde-mint-dev-teststorage/DataBundle/SRR_list.txt",
+  "BatchDownloadSra.PreDefinedSeqID" : " --defline-seq '@$sn[_$rn]/$ri'"
+}
